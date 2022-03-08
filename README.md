@@ -12,13 +12,12 @@ Original datasets were collected from Kaggle: <br>
 https://www.kaggle.com/omermetinn/tweets-about-the-top-companies-from-2015-to-2020<br>
 https://www.kaggle.com/omermetinn/values-of-top-nasdaq-copanies-from-2010-to-2020
 
-Financial vocabularies were collected from the following links (found in the Dictionary folder): <br>
+Financial vocabularies (created by expert linguistics) were collected from the following links (found in the Dictionary folder): <br>
 https://sraf.nd.edu/loughranmcdonald-master-dictionary/ <br>
 https://web.archive.org/web/20210421221737/http://www.wjh.harvard.edu/~inquirer/spreadsheet_guide.htm
 
 In the Dataset folder, the following can be found:
 -	Random sampling of Microsoft tweets and related stock market data between January 1, 2019 and December 31, 2019.
--	Loughran-McDonald and General Inquirer financial vocabularies.
 -	Final dataset to be used in models for training, testing and validation.
 
 ### 2] Data Understanding: Dataset Descriptions
